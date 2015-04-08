@@ -1,2 +1,2 @@
 # TMM15
-Submission to Special Issue on Deep Learning for Multimedia
+Submission to Special Issue on Deep Learning for Multimedia.
