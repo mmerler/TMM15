@@ -1,0 +1,16 @@
+Boy
+CGI
+Child
+Classroom
+Dog
+Flower_scene
+Girl
+Greenery
+Hands
+Head_and_shoulders
+Human_face
+Kitchen
+Mountains
+Printed_text
+Puppet
+Reading
